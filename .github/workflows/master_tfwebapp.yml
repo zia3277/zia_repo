@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'tfwebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ec65ea5a09784e71a66cd58505c122dd }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dcb5ad687bbd498c8c97e06d44c73ca5 }}
         package: .
