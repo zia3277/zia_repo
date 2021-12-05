@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'greatlearningfirstwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_194B9AFDD227478B95A44FA8121CC2FA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9F764E49F504B4EB73B7DAF6200ECBC }}
           package: .
